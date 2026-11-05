@@ -3,8 +3,8 @@
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : 9-Magnesium
+### Group Members			    : Bercasio, Matubis, San Agustin
 ### Date (Proposal Date)  :
 
 ### Project Description:
