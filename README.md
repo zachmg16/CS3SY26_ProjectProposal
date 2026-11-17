@@ -17,9 +17,7 @@ Our target demographics for this project are students interested in learning log
 
 We have proposed and designed a program with a modular game design, running along a Game controller that manages the overall loop of the game. Naturally, games do not shine without their essential parts in play, so it is linked to a Board and multiple Tile objects that can change states along with their attributes and methods. To go along with this, built-in methods such as "get_neighbors()" or "calculate_surrounding_mine()" handle many queries involving data analysis for adjacent coordinates on the graph. This is how the game runs on its modular code, but going into the script itself provides customizable parameters and logic tiles to assist the user. Of course, Minesweeper isn't the only focus of this project, as aside from helping players work out their logical and analytical skill in a set-up space, the whole thing could work as a simulation for real-life situations. Examples to provide a sense of what we propose can be Epidemiology and Disease Outbreak Tracking, where researchers for public health grid out local testing results to find the most effective outbreak sources while minimizing widespread exposure, or Robotics and Navigation, where drones use grids in their script to map unknown terrain and detect obstacle after obstacle in sectors to chart a safe path to their destination.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+![Class Diagram](https://github.com/zachmg16/CS3SY26_ProjectProposal/blob/main/class_diagram.webp)
 
 ### Goals:
 
