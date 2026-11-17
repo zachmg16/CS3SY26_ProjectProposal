@@ -1,7 +1,3 @@
-# CS3SY26_ProjectProposal by AlMendiza
-
-## Project Proposal Template
-
 ### Project Title or Name of the Application	: Lessons in Logic through Minesweeper
 ### Section			   	      : 9-Magnesium
 ### Group Members			    : Bercasio, Matubis, San Agustin
@@ -27,5 +23,3 @@ For our goals, we plan to put deductive thinking into gameplay, and leveraging p
 - Objective 2: to help players deal with high-stakes pressure better and strengthen their spatial awareness within the given limitations
 - Objective 3: to make players handle situations first-hand that could not only help them apply logical thinking to basic day-to-day life, but also strengthen support for interactive science
 - Objective 4: to make logical thinking be easier to remember and apply in real life to players by making it in the form of an interactive game, which helps the minds of players understand it better
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
